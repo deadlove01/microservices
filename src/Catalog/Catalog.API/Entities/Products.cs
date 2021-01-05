@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Catalog.API.Entities
+{
+    public class Products
+    {
+        public string id { get; set; }
+
+    }
+}
